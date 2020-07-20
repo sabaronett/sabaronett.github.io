@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Liquid
 permalink: /liquid/
+title: "Liquid"
 ---
 
 This page demonstrates the capabilities of Liquid, Jekyll's templating language.
